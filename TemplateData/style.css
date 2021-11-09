@@ -19,8 +19,6 @@
 
 .button {
     height: 200px;
-    position: relative;
-    margin: 0;
     position: absolute;
     top: 19%;
     left: 50%;
