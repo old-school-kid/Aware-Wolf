@@ -20,7 +20,6 @@
 .button {
     height: 200px;
     position: relative;
-    border: 3px solid green;
     margin: 0;
     position: absolute;
     top: 19%;
